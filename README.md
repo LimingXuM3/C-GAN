@@ -2,7 +2,7 @@
 
 ## Overview
 
-A PyTorch(python 3.6) and OpenCV test implementation of the paper 'C-GAN: Medical Image Steganography Based on Convergent GANs with Localization'.
+A PyTorch(python 3.6) and OpenCV test implementation of the paper 'C-GAN: Medical Image Steganography Based on Convergent GANs with Localization (under review)'.
 
 ## Usage
 
